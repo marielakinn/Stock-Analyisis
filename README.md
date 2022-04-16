@@ -1,4 +1,4 @@
-# Stock Analyisis
+# Stock Analysis
 
 ## Project Overview
 
